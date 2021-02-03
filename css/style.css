@@ -1,0 +1,28 @@
+.header {
+    background:#ff4757;
+    min-height:80px;
+}
+
+.wrapper {
+    height:500px;
+    overflow: hidden;
+}
+
+.left_content{
+    min-height: 100%;
+    width:70%;
+    background-color: #747d8c;
+    float:left;
+}
+
+.right_content {
+    min-height: 100%;
+    width:30%;
+    float:right;
+    background-color:#2f3542;
+}
+
+.footer {
+    background-color: black;
+    min-height:50px;
+}
